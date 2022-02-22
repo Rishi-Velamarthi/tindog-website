@@ -71,6 +71,9 @@ p {
   position:absolute;
   right: 30%
 }
+.download-button {
+  margin-bottom: 3rem;
+}
 
 /* testimonial-section */
 h2 {
